@@ -1,0 +1,29 @@
+nutrient,form_on_label,amount_per_packet,label_pct_dv,adult_rda_or_ai_19_50,pct_of_rda_or_ai,adult_ul,pct_of_ul,note,nih_ods_source
+Vitamin A,beta-carotene,3000 mcg RAE,333%,900 mcg RAE (men),333%,3000 mcg (preformed vitamin A only),n/a,NIH's UL covers preformed vitamin A only; no UL is set for beta-carotene. USPSTF recommends against beta-carotene supplements for preventing heart disease or cancer.,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/
+Vitamin C,ascorbic acid,179 mg,199%,90 mg (men),199%,2000 mg,9%,,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/
+Vitamin D3,cholecalciferol,37.5 mcg (1500 IU),188%,15 mcg (20 mcg age 71+),250%,100 mcg (4000 IU),38%,,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+Vitamin E,d-alpha-tocopheryl succinate,44.9 mg,299%,15 mg,299%,1000 mg,4%,,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/
+Thiamin (B1),thiamin HCl,4.6 mg,383%,1.2 mg (men),383%,none set,n/a,,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/
+Riboflavin (B2),riboflavin-5-phosphate,7.9 mg,608%,1.3 mg (men),608%,none set,n/a,,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/
+Niacin (B3),niacin and niacinamide,60 mg NE,375%,16 mg NE (men),375%,35 mg (supplemental; applies to both forms),171%,The label does not split niacin and niacinamide. NIH's supplemental UL applies to both forms.,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/
+Vitamin B6,pyridoxal-5-phosphate and pyridoxine HCl,10 mg,588%,1.3 mg (1.7 mg men 51+),769%,100 mg,10%,,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/
+Folate,(6S)-5-methyltetrahydrofolate calcium,650 mcg DFE,163%,400 mcg DFE,163%,1000 mcg (set for folic acid),see note,The UL is set for folic acid; whether it applies to 5-MTHF is not established.,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/
+Vitamin B12,methylcobalamin,195 mcg,8125%,2.4 mcg,8125%,none set,n/a,NIH has set no UL for B12.,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
+Biotin,biotin,600 mcg,2000%,30 mcg (AI),2000%,none set,n/a,FDA advises telling your clinician about any biotin you take before lab tests.,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/
+Pantothenic acid (B5),D-calcium pantothenate,40 mg,800%,5 mg (AI),800%,none set,n/a,,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/
+Calcium,carbonate/lactate/sulfate/phosphates/citrate,440 mg,34%,1000 mg (1200 mg women 51+ and all 71+),44%,2500 mg (2000 mg age 51+),18%,,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+Iodine,potassium iodide,150 mcg,100%,150 mcg,100%,1100 mcg,14%,,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/
+Magnesium,oxide and carbonate,125 mg,30%,420 mg (men 31+),30%,350 mg (supplemental),36%,,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/
+Zinc,zinc lactate,7.5 mg,68%,11 mg (men),68%,40 mg,19%,,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/
+Selenium,selenium amino acid chelate,55 mcg,100%,55 mcg,100%,400 mcg,14%,,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/
+Copper,copper gluconate,0.1 mg,11%,0.9 mg,11%,10 mg,1%,,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/
+Manganese,gluconate and sulfate,2.5 mg,109%,2.3 mg (AI men),109%,11 mg,23%,,https://ods.od.nih.gov/factsheets/Manganese-Consumer/
+Chromium,chromium nicotinate,120 mcg,343%,35 mcg (AI men),343%,none set,n/a,,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/
+Sodium,sodium bicarbonate,5 mg,2% (as printed),,,,,,
+Potassium,potassium bicarbonate,410 mg,8%,3400 mg (AI men),12%,none set,n/a,,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/
+Boron,boron citrate,0.5 mg,not established,none set,n/a,20 mg,3%,,https://ods.od.nih.gov/factsheets/Boron-HealthProfessional/
+Grape seed extract,,25 mg,not established,,,,,,
+Red wine extract,,25 mg,not established,,,,,,
+Pine bark extract (Pycnogenol®),,25 mg,not established,,,,,Ask your clinician first if you take blood thinners.,
+Bilberry extract,,25 mg,not established,,,,,,
+Citrus bioflavonoids complex,,25 mg,not established,,,,,,
